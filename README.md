@@ -20,7 +20,7 @@ This chrome extension allows you to focus on productivity.
 ## Setup
 #### Clone this repository
 ```
-~$ git clone https://github.com/shivamacs/productivify.git
+~$ git clone https://github.com/cozyspectre007/productivify.git
 ~$ cd productivify
 ```
 #### Load extension in Chrome browser
